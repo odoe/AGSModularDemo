@@ -1,0 +1,1 @@
+(function(){define(["dojo/_base/declare","dijit/MenuItem","text!widgets/legendtoc/templates/LegendMenuItem.html","dijit/hccss"],function(a,b,c){var d=a([b],{templateString:c,legendUrl:""});return d})}).call(this)
