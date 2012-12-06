@@ -1,5 +1,5 @@
 /**
-* @author rrubalcava@lacsd.org (Rene Rubalcava)
+* @author odoe@odoe.net (Rene Rubalcava)
 */
 /**
 * This is a simple, basic BasemapGallery menu dijit for use with the
