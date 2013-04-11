@@ -1,4 +1,6 @@
 *.swp
 *.lnk
 *~
-release/*
+app/build/*
+app/node_modules/*
+app/build/*

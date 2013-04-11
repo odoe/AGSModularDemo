@@ -1,1 +1,0 @@
-(function(){define(["views/ViewManager"],function(a){var b;return b=function(){var b;b=new a,b.render()},{initialize:b}})}).call(this)
